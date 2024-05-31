@@ -1,0 +1,7 @@
+parameters:
+   paths:
+      - src/
+   excludePaths:
+      - src/tests/Template/
+
+   level: 5
