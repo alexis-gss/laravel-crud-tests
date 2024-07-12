@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner of the github account](./assets/images/github-visual.png)
+[![Banner of the github account](./assets/images/github-visual.png)](https://packagist.org/packages/alexis-gss/laravel-unit-tests)
 
 ![GitHub latest commit](https://img.shields.io/github/last-commit/alexis-gss/laravel-unit-tests?color=ff2908&style=for-the-badge)
 ![GitHub tag](https://img.shields.io/github/tag/alexis-gss/laravel-unit-tests?style=for-the-badge&color=ff2908)
@@ -30,7 +30,7 @@ You can find all the documentation of this package on this link : [Laravel Unit 
 
 # Changelog
 
-Latest version v1.0.0.
+Latest version v1.1.0.
 
 See the [CHANGELOG.md](CHANGELOG.md) file for details.
 
