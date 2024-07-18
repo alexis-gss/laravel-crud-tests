@@ -2,8 +2,10 @@
 
 [![Banner of the github account](./assets/images/github-visual.png)](https://packagist.org/packages/alexis-gss/laravel-unit-tests)
 
-![GitHub latest commit](https://img.shields.io/github/last-commit/alexis-gss/laravel-unit-tests?color=ff2908&style=for-the-badge)
-![GitHub tag](https://img.shields.io/github/tag/alexis-gss/laravel-unit-tests?style=for-the-badge&color=ff2908)
+[![GitHub latest commit](https://img.shields.io/github/last-commit/alexis-gss/laravel-unit-tests?color=ff2908&style=for-the-badge)](https://github.com/alexis-gss/laravel-unit-tests/commit/master)
+[![Packagist Version](https://img.shields.io/packagist/v/alexis-gss/laravel-unit-tests?color=ff2908&style=for-the-badge)](https://packagist.org/packages/alexis-gss/laravel-unit-tests)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/alexis-gss/laravel-unit-tests?color=ff2908&style=for-the-badge)](https://packagist.org/packages/alexis-gss/laravel-unit-tests)
+[![GitHub License](https://img.shields.io/github/license/alexis-gss/laravel-unit-tests?color=ff2908&style=for-the-badge)](https://packagist.org/packages/alexis-gss/laravel-unit-tests)
 
 </div>
 
