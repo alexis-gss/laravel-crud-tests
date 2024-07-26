@@ -20,6 +20,16 @@ layout:
 
 Here, there is all release notes of the [Laravel Unit Tests](https://packagist.org/packages/alexis-gss/laravel-unit-tests) package :
 
+## **\[v1.1.1] - 26/07/2024**
+
+### Added
+
+* docs: 📝 add packagist badges in README.md
+
+Full changelog: [https://github.com/alexis-gss/laravel-unit-tests/compare/v1.1.0...v1.1.1](https://github.com/alexis-gss/laravel-unit-tests/compare/v1.1.0...v1.1.1)
+
+***
+
 ## **\[v1.1.0] - 07/07/2024**
 
 ### Added
